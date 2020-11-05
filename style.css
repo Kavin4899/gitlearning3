@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.sect{
+}
+.jan{
+    height: 1.5cm;
+  
+    width: 100%;
+
+}
+.nov{
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+}
+.oct{
+    width: 20%;
+    float: left;
+}
+.oct1{
+    width: 50%;
+    float: left;
+    padding-top: 2px;
+
+}
+.oct2{
+    width: 20%;
+    float: left;
+    padding-top: 10px;
+}
+.oct3{
+    width: 10%;
+    float: left;
+}
+.feb{
+  
+    margin: 0px;
+    clear: both;
+    width: 100%;
+}
+.jul{
+    width: 65%;
+    float: left;
+}
+.marc{
+   
+    height: 1cm;
+    width: 33%;
+    float: right;
+    margin-right: 23px;
+    margin-top: 40px;
+    
+
+}
+
+.aa{
+    width: 95%;
+    height: 70vh;
+    margin-left: 20px;
+    margin-top: 40px;
+    float: left;
+}
+.bb{
+    float: left;
+    width: 35%;
+    height: 84vh;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.dec{
+    padding-left: 280px;
+    margin-left: 100px;
+    padding-top: 13px;
+    padding-bottom: 0px;
+    margin-top: 10px;
+}
+.bx-menu{
+    font-size:40px;
+    padding-left: 20px;
+}
+.sun{
+    padding-top: 11px;
+    padding-left: 30px;
+    margin-left: -5px;
+    margin-top: 10px;
+}
+.bx-search{
+    padding-right: 20px;
+    padding-bottom: 2px;
+    font-size: 15px;
+}
+.bxs-video-plus{
+    margin-left:100px ;
+    font-size:20px;
+ }
+ .bxs-grid{
+     margin-left: 20px;
+     font-size: 20px;
+     border-radius: 50px;
+     padding: 10px;
+ }
+.bx-dots-vertical-rounded{
+    margin-left: 20px;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 10px;
+}
+.sat{
+    margin-top: 10px;
+    float: right;
+    margin-left: px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 20px;
+    margin-right: 2px;
+    background-color: white;
+    border: 1px solid rgb(31, 175, 211);
+}
+.one{
+    text-decoration: none;
+    font-size: 15px;
+    color: blue;
+}
+.bxs-user-circle{
+     font-size: 20px;
+}
+.hit{
+    width: 80%;
+    height: auto;
+}
+.too{
+    width: 80%;
+    height: 450;
+}
+.tre{
+    clear: both;
+    width: 100%;
+    height: 10vh;
+    margin-left: 20px;
+}
+.four{
+    padding-top: 20px;
+}
+.fiv{
+    padding-top: 12px;
+    float: left;
+}
+  
+.six{
+    padding-left: 280px;
+    float: left;
+
+}
+.seve{
+    float: left;
+    list-style-type: none;
+    padding-top: 12px;
+    padding-left: 15px;
+}
+.nin{
+    text-decoration: none;
+}
+.ten{
+    float: left;
+}
+.lev{
+    float: left;
+    padding-left: 250px;
+}
+.third{
+    float: left;
+}
+.five{
+    float: left;
+    color: black;
+    text-decoration: none;
+    padding-left: 10px;
+}
+.fifth{
+    padding-top: 10px;
+    color: rgb(95, 91, 91);
+}
+.twel{
+    
+}
+.twel1{
+    margin-top: 180px;
+}
+.twel2{
+    margin-top: 100px;
+}
+.twel3{
+    margin-top: 110px;
+}
+.bx-dots-horizontal-rounded{
+    font-size: 23px;
+}
+
+
+
+  
